@@ -1,0 +1,28 @@
+body {
+    background: rgb(0,164,255);
+    background: linear-gradient(203deg, rgba(0,164,255,1) 23%, rgba(236,255,0,1) 100%);}
+
+table, th, td, tr {
+    margin: auto;
+    border: 1px solid black;
+    border-collapse: collapse;
+    background-color: white;
+    text-align: center;
+}
+
+th {
+    background-color: black;
+    color: white;
+}
+
+#enlace {
+    color: wheat;
+    font-style: oblique;
+    font-weight: bold;
+}
+
+#enlace:hover {
+    color: red;
+    font-style: oblique;
+    text-decoration: none;
+}
